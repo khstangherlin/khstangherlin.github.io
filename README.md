@@ -4,4 +4,8 @@ I'm Kleber Hugo Stangherlin, a PhD student on the ECE department at University o
 
 Hope you find something interesthing!
 
-PS. As you may see, still under development. :)
+## Few Links to Stuff that I Care About
+
+Linus Torvalds on Availability of kdb
+http://lwn.net/2000/0914/a/lt-debugger.php3
+
